@@ -31,7 +31,7 @@
     * 通过 SSH 登录到你的 NAS。
 
 2.  **下载并执行脚本**
-    将本脚本文件（`deploy_unified.sh`）下载到你的 NAS 任意目录，例如 `/volume1/docker/`。
+    将本脚本文件下载到你的 NAS 任意目录，例如 `/volume1/docker/`。
     
     你也可以使用 `curl` 命令直接下载并运行：
 
