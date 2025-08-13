@@ -1,8 +1,8 @@
 #!/bin/bash
 
-  脚本名称：NAS-Tools 一键部署脚本（映射统一版）
-  作者：Eric
-  YouTube频道：https://www.youtube.com/@Eric-f2v
+# 脚本名称：NAS-Tools 一键部署脚本（映射统一版）
+# 作者：Eric
+# YouTube频道：https://www.youtube.com/@Eric-f2v
 
 # --- 定义默认变量 ---
 DEFAULT_JACKETT_PORT=9117
