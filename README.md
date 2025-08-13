@@ -36,7 +36,7 @@
     你也可以使用 `curl` 命令直接下载并运行：
 
     ```bash
-    curl -fsSL https://raw.githubusercontent.com/gkyang2022/NasTool/refs/heads/main/NasTool.sh| bash
+    curl -fsSL https://raw.githubusercontent.com/gkyang2022/NasTool/main/NasTool.sh | bash
     ```
 
 3.  **脚本运行过程**
