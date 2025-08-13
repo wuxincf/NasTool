@@ -31,8 +31,8 @@ read -p "请输入 NASTOOLS 的宿主机端口 [默认: $DEFAULT_NASTOOLS_PORT]:
 NASTOOLS_PORT=${NASTOOLS_PORT:-$DEFAULT_NASTOOLS_PORT}
 
 # 2. 输入 PUID 和 PGID
-echo -e "\n--- 获取 PUID 和 PGID ---"
-echo "你可以通过在终端运行 'id <你的用户名>' 命令来获取。"
+# echo -e "\n--- 获取 PUID 和 PGID ---"
+# echo "你可以通过在终端运行 'id <你的用户名>' 命令来获取。"
 read -p "请输入用户的 PUID (例如: 1026): " PUID
 while ! [[ "$PUID" =~ ^[0-9]+$ ]]
 do
