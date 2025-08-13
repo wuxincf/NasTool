@@ -36,8 +36,7 @@
     你也可以使用 `curl` 命令直接下载并运行：
 
     ```bash
-    # 请将下面的 URL 替换成你在 GitHub 上的原始文件链接
-    curl -fsSL [https://raw.githubusercontent.com/gkyang2022/NasTool/refs/heads/main/NasTool.sh](https://raw.githubusercontent.com/你的用户名/你的仓库名/main/deploy_unified.sh) | bash
+    curl -fsSL https://raw.githubusercontent.com/gkyang2022/NasTool/refs/heads/main/NasTool.sh| bash
     ```
 
 3.  **脚本运行过程**
